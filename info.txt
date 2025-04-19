@@ -1,23 +1,33 @@
-                                                                            Zomata Data                  
-Zomato has an average of 17.5 million monthly transacting customers for its food delivery business.
-The average monthly active food delivery restaurant partners on Zomato's platform have also increased by 8.7% year-on-year, from 208,000 to 226,000.
-You are working in a data-driven role at Zomato. You have a dataset of customers.
-As a data professional, you need to analyze the data, perform EDA (Exploratory Data Analysis) and visualization, and answer the following questions.
+📦 Zomato Data Analysis – Project Overview
+Zomato, one of India's leading food delivery platforms, serves an impressive average of 17.5 million transacting customers per month through its food delivery services.
+Additionally, the average number of monthly active food delivery restaurant partners on Zomato’s platform has seen significant growth — rising by 8.7% year-on-year, from 208,000 to 226,000.
 
 
+📊 Zomato Restaurant Data Analysis
+This dataset contains information about various restaurants listed on Zomato, primarily focusing on aspects that affect customer decisions such as online ordering, table booking availability, ratings, cost, and type of listing (e.g., Buffet, Delivery, Café).
+
+Dataset Overview:
+Total Records: 148 restaurant entries
+
+Columns:
+
+name: Name of the restaurant
+online_order: Whether the restaurant offers online ordering (Yes/No)
+book_table: Whether table booking is available
+rate: Customer rating (e.g., 4.1/5)
+votes: Number of votes received from customers
+approx_cost(for two people): Estimated cost for two people
+listed_in(type): Type of listing such as Buffet, Delivery, etc.
+
+This data can be useful for analyzing restaurant performance, customer preferences, pricing patterns, and the impact of online services.
 
 
+📊 Questions for the Data Analysis of Zomato Company
 
-                                                        Questions for the data analysis of Zomato Company
+1.What type of restaurant do the majority of customers order from?
+2.How many votes has each type of restaurant received from customers?
+3.What are the ratings that the majority of restaurants have received?
+4.Zomato has observed that most couples order most of their food online. What is their average spending on each order?
+5.Which mode (online or offline) has received the maximum rating?
+6.Which type of restaurant received more offline orders, so that Zomato can provide those customers with some good offers?
 
-What type of restaurant do the majority of customers order from?
-
-How many votes has each type of restaurant received from customers?
-
-What are the ratings that the majority of restaurants have received?
-
-Zomato has observed that most couples order most of their food online. What is their average spending on each order?
-
-Which mode (online or offline) has received the maximum rating?
-
-Which type of restaurant received more offline orders, so that Zomato can provide those customers with some good offers?
