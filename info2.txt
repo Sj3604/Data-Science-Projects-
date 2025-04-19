@@ -1,0 +1,34 @@
+📦 E-Commerce Sales Data Analysis
+🛍️ About the Project
+This project focuses on analyzing sales data from an e-commerce store to gain key business insights and improve strategic decision-making.
+The dataset simulates a retail environment and contains information about orders, product categories,
+sub-categories, customer segments, shipping dates, sales, and profits.
+
+By using Python and libraries like Pandas, Plotly, the analysis explores various dimensions such as time-based trends, 
+category-based performance, and profitability.
+
+
+📊 About the Dataset
+The dataset used here is a sample e-commerce sales data which includes records of individual customer purchases.
+Key columns in the dataset include:
+
+Order Date
+Ship Date
+Sales
+Profit
+Product Category & Sub-Category
+Customer Segment
+
+This data provides a foundation for performing a complete retail sales analysis, covering both the sales and operational aspects.
+
+
+📌 Key Questions Addressed
+Here are the key analysis goals we focused on in this project:
+
+1.Calculate the monthly sales of the store and identify which month had the highest and lowest sales.
+2.Analyze sales by product categories to find out which category has the highest and lowest sales.
+3.Perform sales analysis based on sub-categories.
+4.Analyze the monthly profit and determine which month had the highest profit.
+5.Analyze the profit by category and sub-category.
+6.Analyze the sales and profit by customer segment.
+7.Analyze the sales to profit ratio.
